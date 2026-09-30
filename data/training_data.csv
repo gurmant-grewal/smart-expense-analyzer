@@ -1,0 +1,833 @@
+text,category
+"grocery shopping at walmart",food
+"uber eats mcdonalds delivery",food
+"starbucks morning coffee and croissant",food
+"dinner at olive garden with family",food
+"weekly meal prep ingredients from aldi",food
+"chipotle chicken bowl with guac",food
+"whole foods organic produce",food
+"taco bell late night drive thru",food
+"subway footlong turkey sub lunch",food
+"dunkin donuts half dozen assorted",food
+"local bakery fresh sourdough bread",food
+"pizza hut delivery large pepperoni",food
+"kroger milk eggs and bread",food
+"boba milk tea afternoon snack",food
+"sushi combo plate at sakura",food
+"costco food court hot dog and soda",food
+"trader joes frozen meals haul",food
+"burger king whopper meal",food
+"sunday brunch at the local diner",food
+"ramen bowl at ichiran",food
+"panera bread soup and salad combo",food
+"farmers market fresh strawberries",food
+"wendys spicy chicken nugget meal",food
+"fine dining anniversary dinner",food
+"snacks for road trip from gas station",food
+"dominos pizza online order",food
+"kfc 8 piece bucket dinner",food
+"bagel with cream cheese and latte",food
+"thai food takeout pad thai",food
+"pub grubs burgers and fries",food
+"safeway grocery restocking",food
+"ice cream cones at dairyland",food
+"chinese buffet lunch menu",food
+"food truck street tacos",food
+"philips seafood restaurant dinner",food
+"instacart grocery delivery service",food
+"deli counter turkey breast slice",food
+"popeyes chicken sandwich combo",food
+"greek salad and gyro platter",food
+"convenience store energy bar",food
+"steakhouse ribeye dinner with sides",food
+"five guys bacon cheeseburger",food
+"target grocery aisle snacks",food
+"food stand hot pretzel",food
+"indian restaurant buffet lunch",food
+"frozen yogurt with toppings",food
+"vietnamese pho noodle soup",food
+"breakfast burrito from food truck",food
+"shiver me timbers seafood platter",food
+"corner store gallon of milk",food
+"buffalo wild wings traditional wings",food
+"bakery birthday cake order",food
+"heisler grocery dry goods",food
+"outback steakhouse sirloin meal",food
+"tim hortons coffee and timbits",food
+"mexican restaurant chips and salsa",food
+"korean bbq all you can eat",food
+"corner deli pastrami sandwich",food
+"sonic drive in cherry limeade",food
+"grocery delivery from shipt",food
+"applebees appetizer sampler",food
+"gourmet cheese block purchase",food
+"central market artisanal meats",food
+"jamba juice mango smoothie",food
+"waffle house chocolate chip waffle",food
+"italian restaurant lasagna dinner",food
+"culvers butterburger and custard",food
+"meijer weekly grocery run",food
+"dim sum weekend brunch",food
+"coffee shop espresso shot",food
+"michelin star tasting menu",food
+"smoothie king meal replacement",food
+"chilis 3 for me deal",food
+"local butcher ribeye steaks",food
+"food co op bulk bin grains",food
+"sheetz MTO breakfast sandwich",food
+"dairy queen blizzard treat",food
+"french bistro steak frites",food
+"panda express plate with chow mein",food
+"case of bottled water walmart",food
+"einstein bros baker dozen bagels",food
+"mediterranean platter pita hummus",food
+"sweetgreen harvest bowl salad",food
+"mccormick seafood seasoning grocery",food
+"cold stone creamery ice cream",food
+"dennys grand slam breakfast",food
+"publix chicken tender sub",food
+"food festival entry and snacks",food
+"red lobster cheddar bay biscuits",food
+"case of soda from grocery",food
+"texas roadhouse rolls and steak",food
+"gourmet popcorn tin gift",food
+"teriyaki chicken bowl takeout",food
+"ihop buttermilk pancakes stack",food
+"local pizzeria two slices lunch",food
+"wegmans prepared meals section",food
+"smoothie bowl with granola",food
+"hardees breakfast biscuit combo",food
+"h mart asian grocery haul",food
+"shack burger and crinkle fries",food
+"insomnia cookies late night delivery",food
+"peruvian rotisserie chicken family meal",food
+"jack in the box tacos",food
+"cracker barrel old country store",food
+"pret a manger egg sandwich",food
+" अर्जित grocery store items",food
+"brazilian steakhouse meat churrasco",food
+"smoothie ingredients spinach protein",food
+"jersey mikes giant sub",food
+"caribou coffee iced mocha",food
+"tapas bar small plates sharing",food
+"cheesecake factory avocado eggrolls",food
+"winco foods budget grocery run",food
+"whataburger honey butter chicken biscuit",food
+"portillos italian beef sandwich",food
+"wingstop lemon pepper wings",food
+"peets coffee roasted beans",food
+"local orchard apples cider donuts",food
+"del taco burrito deal",food
+"case of avocados wholesale club",food
+"bonefish grill bang bang shrimp",food
+"qdoba burrito bowl extra guac",food
+"potbelly sandwich shop oatmeal cookie",food
+"jimmy johns beach club unwich",food
+"longhorn steakhouse flo filet",food
+"white castle crave case slider",food
+"mellow mushroom cosmic karma pizza",food
+"in n out double double burger",food
+"el pollo loco fire grilled chicken",food
+"mod pizza create your own",food
+"raising canes 4 piece combo",food
+"bojangles cajun filet biscuit",food
+"bjs wholesale pantry snack restock",food
+"pf changs lettuce wraps",food
+"noodles and company pesto cavatappi",food
+"firehouse subs hook and ladder",food
+"moes southwest grill burrito night",food
+"boston market rotisserie chicken meal",food
+"carrabbas italian grill chicken bryan",food
+"checkers seasoned fries large",food
+"churchs chicken biscuit and tender",food
+"jason deli salad bar trip",food
+"mcallister deli sweet tea gallon",food
+"marcos pizza garden pizza",food
+"blaze pizza high rise dough",food
+"baskin robbins scoop of jamoca",food
+"peoples food co op organic veggies",food
+"golden corral morning breakfast buffet",food
+"red robin royal red robin burger",food
+"tgi fridays potato skins app",food
+"ruths chris steak house dinner",food
+"bob evans farmers choice breakfast",food
+"captain d seafood platter",food
+"long john silvers fish combo",food
+"carvel ice cream cake celebrate",food
+"crumbl cookies weekly box purchase",food
+"dutch bros rebel energy drink",food
+"pepito street food truck arepa",food
+"jamaican patty and coco bread",food
+"empanada shop beef potato pastry",food
+"german beer hall giant pretzel",food
+"irish pub fish and chips",food
+"caribbean jerk chicken rice peas",food
+"lebanese falafel wrap lunch",food
+"turkish kebab wrap garlic sauce",food
+"japanese ramen tonkotsu rich broth",food
+"colombian bakery pandebono cheese bread",food
+"salvadoran pupusa platter curtido",food
+"ethiopian veggie platter injera bread",food
+"moroccan tagine lamb apricot",food
+"spanish paella seafood mix dinner",food
+"cuban sandwich plantain chips combo",food
+"argentinian empanadas chimichurri dip",food
+"peruvian ceviche fresh seafood dish",food
+"vietnamese banh mi pork sandwich",food
+"thai green curry jasmine rice",food
+"indian butter chicken garlic naan",food
+"korean fried chicken soy garlic",food
+"chinese dim sum pork buns",food
+"hawaiian poke bowl ahi tuna",food
+"filipino chicken adobo garlic rice",food
+"brazilian acai bowl peanut butter",food
+"mexican churros chocolate dipping sauce",food
+"french croissants chocolate pain chocolate",food
+"italian gelato hazelnut pistachio scoop",food
+"belgian waffle strawberries whipped cream",food
+"swiss fondue cheese dipping dinner",food
+"greek baklava honey walnut pastry",food
+"british afternoon tea scones clotted",food
+"canadian poutine fries cheese curd",food
+"australian meat pie savory pastry",food
+"new zealand lamb chops rosemary",food
+"south african biltong cured meat",food
+"nigerian jollof rice fried plantain",food
+"egyptian koshary lentils rice pasta",food
+"israeli shakshuka eggs tomato sauce",food
+"persian koobideh kebab saffron rice",food
+"afghan manta dumplings yogurt sauce",food
+"nepali momo dumplings spicy sauce",food
+"tibetan thukpa noodle soup warming",food
+"taiwanese beef noodle soup dinner",food
+"hong kong egg waffles sweet",food
+"malaysian nasi lemak coconut rice",food
+"indonesian satay chicken peanut sauce",food
+"singapore chili crab seafood night",food
+"vietnamese iced coffee condensed milk",food
+"thai mango sticky rice dessert",food
+"filipino halo halo icy dessert",food
+"japanese matcha latte oat milk",food
+"korean bingsu shaved ice mango",food
+"chinese bubble tea taro flavor",food
+"indian mango lassi yogurt drink",food
+"pakistani biryani spicy chicken rice",food
+"turkish delight rosewater flavor candy",food
+"greek frappe iced coffee foam",food
+"italian espresso macchiato quick break",food
+"french macaron box delicate treats",food
+"spanish churros hot chocolate dip",food
+"portuguese custard tart pastel nata",food
+"austrian apple strudel vanilla sauce",food
+"swedish meatballs lingonberry jam dinner",food
+"danish pastry pecan maple drizzle",food
+"belgian chocolate truffles gift box",food
+"swiss chocolate bar hazelnut crunch",food
+"english crumpets butter golden syrup",food
+"scottish shortbread tin buttery cookies",food
+"irish soda bread bakery fresh",food
+"welsh rarebit cheesy toast brunch",food
+"canadian maple syrup grocery bottle",food
+"american apple pie bakery slice",food
+"mexican hot chocolate cinnamon spice",food
+"peruvian pisco sour cocktail food",food
+"brazilian coxinha chicken croquette",food
+"argentinian alfajores dulce de leche",food
+"cuban pastelitos guava cheese pastry",food
+"puerto rican mofongo garlic plantain",food
+"jamaican rum cake holiday dessert",food
+"trinidadian doubles chickpea street food",food
+"guyanese pine tart pineapple pastry",food
+"venezuelan cachapa sweet corn pancake",food
+"colombian arepa de choclo cheese",food
+"ecuadorian llapingachos potato cheese cakes",food
+"bolivian saltenas juicy meat pastry",food
+"chilian empanada pino beef raisin",food
+"uruguayan chivito steak sandwich meal",food
+"paraguayan sopa paraguaya cornbread snack",food
+"target new wardrobe clothing items",shopping
+"best buy wireless noise canceling headphones",shopping
+"amazon prime paperback fiction book order",shopping
+"home depot interior wall paint gallon",shopping
+"sephora matte finish liquid foundation makeup",shopping
+"ikea flat pack wooden coffee table",shopping
+"nike running shoes marathon training sneakers",shopping
+"nordstrom designer leather shoulder handbag",shopping
+"bath and body works scented candles",shopping
+"gamestop wireless gaming controller accessory",shopping
+"petco premium grain free dog food",shopping
+"macy down feather winter jacket clearance",shopping
+"staples printer ink replacement cartridges pack",shopping
+"lululemon high rise athletic yoga pants",shopping
+"lowes garden center potted patio plants",shopping
+"tj maxx designer sunglasses discount rack",shopping
+"dick sporting goods camping tent equipment",shopping
+"apple store replacement phone charging cable",shopping
+"ulta beauty moisturizing hair care shampoo",shopping
+"dollar tree birthday party supplies bundle",shopping
+"subway train fare contactless tap payment",transportation
+"uber ride home from downtown lounge",transportation
+"lyft airport rideshare transit morning rush",transportation
+"city parking garage hourly vehicle fee",transportation
+"highway express lane electronic toll payment",transportation
+"shell station premium unleaded vehicle fuel",transportation
+"public bus transit monthly commuter pass",transportation
+"yellow cab taxi fare cash tip",transportation
+"amtrak regional train ticket weekend commute",transportation
+"electric scooter street rental minute charge",transportation
+"mta subway card balance automatic reload",transportation
+"downtown curbside parking meter coin payment",transportation
+"chevron gas station full tank fill",transportation
+"bridge toll booth electronic transponder refill",transportation
+"airport long term economy parking deck",transportation
+"bicycle sharing network annual membership fee",transportation
+"commuter rail train ticket station kiosk",transportation
+"valet parking service restaurant validation fee",transportation
+"rideshare surge pricing weekend evening transit",transportation
+"interstate bus transport ticket online booking",transportation
+"amc theatres popcorn and movie ticket",entertainment
+"netflix premium monthly streaming video subscription",entertainment
+"spotify family plan digital music platform",entertainment
+"local theater center live play tickets",entertainment
+"ticketmaster rock concert stadium tour passes",entertainment
+"steam store digital PC video game",entertainment
+"six flags theme park general admission",entertainment
+"bowling alley shoe rental and lane",entertainment
+"broadway musical production evening balcony seating",entertainment
+"nba basketball game arena entry ticket",entertainment
+"comedy club cover charge and drinks",entertainment
+"museum of modern art general admission",entertainment
+"aquarium weekend entry ticket family pass",entertainment
+"zoo walkthrough tour general public pass",entertainment
+"playstation network digital game download store",entertainment
+"hulu ad free television streaming service",entertainment
+"arcade token bundle package family fun",entertainment
+"escape room challenge group reservation fee",entertainment
+"miniature golf course 18 hole round",entertainment
+"local festival entry wristband weekend pass",entertainment
+"walgreens prescription allergy medication co pay",health
+"cvs health daily multivitamin mineral bottles",health
+"dental clinic teeth cleaning routine checkup",health
+"vision center prescription eyeglasses frames lenses",health
+"chiropractor adjustment therapy session payment",health
+"physical therapy clinic post injury rehabilitation",health
+"urgent care center walk in clinic",health
+"rite aid first aid bandage kit",health
+"medical lab blood panel testing service",health
+"dermatology clinic skincare consultation checkup fee",health
+"pharmacy prescription antibiotics liquid dose refill",health
+"hearing aid battery replacement pack grocery",health
+"orthodontic clinic monthly brace adjustment fee",health
+"doctor office annual physical checkup co",health
+"therapeutic massage clinic deep tissue session",health
+"mental health counselor therapy intake appointment",health
+"podiatrist clinic custom foot orthotics fitting",health
+"hospital emergency room triage facility copay",health
+"asthma inhaler replacement pharmacy pickup order",health
+"medical supply store wrist splint brace",health
+"community college summer course tuition fee",education
+"university textbook bundle campus bookstore purchase",education
+"online learning platform professional certificate course",education
+"language learning application annual digital subscription",education
+"sylvan learning center academic tutoring hour",education
+"sat exam registration official testing fee",education
+"coding bootcamp enrollment program deposit payment",education
+"academic journal monthly digital publication access",education
+"high school calculator advanced graphing device",education
+"school supplies backpack binders pencils package",education
+"cooking school weekend culinary skills workshop",education
+"music instructor private piano lesson fee",education
+"art academy oil painting beginner course",education
+"educational science kit children chemistry project",education
+"university graduation gown cap rental store",education
+"preschool monthly enrollment tuition care payment",education
+"driving school classroom instruction permit course",education
+"cpa exam preparation study guide materials",education
+"medical terminology textbook digital download copy",education
+"school district annual field trip student",education
+"delta airlines round trip flight ticket",travel
+"hilton hotel downtown double room stay",travel
+"airbnb beachfront vacation villa reservation deposit",travel
+"hertz car rental economy class vehicle",travel
+"expedia vacation package flight hotel bundle",travel
+"cruise line caribbean itinerary deposit payment",travel
+"travel insurance policy international comprehensive plan",travel
+"hostel booking shared dormitory room stay",travel
+"airport terminal duty free shop souvenirs",travel
+"guided city sightseeing bus tour ticket",travel
+"luggage storage locker service railway station",travel
+"resort hotel daily amenity facility fee",travel
+"passport renewal application official processing fee",travel
+"foreign currency exchange service airport kiosk",travel
+"travel agency vacation planning consultation fee",travel
+"tsa precheck application five year enrollment",travel
+"hotel room service late night dining",travel
+"train tour scenic countryside excursion pass",travel
+"vacation resort stay parking valet charge",travel
+"international travel adapter plug electronic store",travel
+"apartment monthly residential housing rent payment",other
+"state treasury annual vehicle registration renewal",other
+"united states postal service postage stamp",other
+"city water utility monthly service bill",other
+"laundromat self service washing machine token",other
+"att mobile cellular phone service plan",other
+"local dry cleaner laundry service coat",other
+"apartment building basement storage locker rent",other
+"bank checking account monthly maintenance fee",other
+"atm cash withdrawal network out network",other
+"charitable donation international disaster relief fund",other
+"church weekly Sunday congregation tithing donation",other
+"legal firm notary public signature service",other
+"residential waste management trash collection bill",other
+"electric company home power grid invoice",other
+"natural gas utility winter heating statement",other
+"western union international cash wire fee",other
+"tailor shop clothing alterations suit jacket",other
+"keys duplicated hardware store locksmith booth",other
+"apartment security deposit refund application processing",other
+"walmart athletic socks multi pack purchase",shopping
+"h&m casual cotton t shirts",shopping
+"zara slim fit denim jeans trousers",shopping
+"rei waterproof hiking boots trail outdoor",shopping
+"homegoods decorative ceramic living room vase",shopping
+"crate and barrel kitchen dinnerware set",shopping
+"officemax ergonomic mesh desk office chair",shopping
+"foot locker athletic basketball crew socks",shopping
+"petmarket cat litter box scoop accessories",shopping
+"claires sterling silver earrings jewelry box",shopping
+"michaels custom picture frame glass backing",shopping
+"bed bath beyond bath towel set",shopping
+"auto zone replacement windshield wiper blades",shopping
+"guitar center acoustic guitar strings package",shopping
+"container store plastic storage bins lids",shopping
+"costco wholesale bulk pack AA batteries",shopping
+"urban outfitters vintage graphic tee shirt",shopping
+"marshalls designer leather belt classic buckle",shopping
+"express mens tailored dress shirt formal",shopping
+"bananarepublic silk necktie business attire outfit",shopping
+"uber eats delivery courier courier tip",transportation
+"lyft xl rideshare vehicle group transport",transportation
+"metropolitan airport shuttle terminal transfer service",transportation
+"city train station overnight vehicle parking",transportation
+"e zpass toll road account reload",transportation
+"exxon station regular gas pump purchase",transportation
+"passenger ferry boat harbor crossing ticket",transportation
+"airport town car private chauffeur service",transportation
+"greyhound long distance bus travel ticket",transportation
+"electric moped city street rental ride",transportation
+"subway token bundle transit authority counter",transportation
+"commercial garage monthly parking spot lease",transportation
+"bp gas station diesel truck fuel",transportation
+"turnpike toll plaza cash lane payment",transportation
+"airport valet curbside vehicle parking fee",transportation
+"bike share membership key fob replacement",transportation
+"train ticket upgrade first class cabin",transportation
+"hotel overnight self parking garage fee",transportation
+"rideshare cancellation fee driver standby limit",transportation
+"cross country bus transport overnight ticket",transportation
+"regal cinemas evening matinee movie tickets",entertainment
+"disney plus annual streaming subscription service",entertainment
+"apple music individual monthly plan download",entertainment
+"community playhouse musical production ticket stub",entertainment
+"stubhub sports playoff game ticket marketplace",entertainment
+"epic games store digital download pack",entertainment
+"disneyland park single day hopper pass",entertainment
+"billiard hall pool table hourly rental",entertainment
+"opera house season opening night ticket",entertainment
+"nfl football game stadium entry pass",entertainment
+"jazz lounge live music cover charge",entertainment
+"science museum planetarium show ticket upgrade",entertainment
+"water park summer season admission pass",entertainment
+"botanical gardens afternoon walking tour ticket",entertainment
+"nintendo eshop digital retro game download",entertainmen
+t"paramount plus monthly streaming video membership",entertainment
+"bowling tournament registration entry fee pool",entertainment
+"laser tag arena group match play",entertainment
+"golf driving range bucket range balls",entertainment
+"county fair midway carnival ride tickets",entertainment
+"target pharmacy generic prescription medication capsule",health
+"gnc whey protein isolate powder tub",health
+"dental office wisdom teeth extraction surgery",health
+"lenscrafters contact lenses six month supply",health
+"acupuncture clinic holistic therapy session fee",health
+"occupational therapy pediatric evaluation session clinic",health
+"medical clinic walk in strep test",health
+"walgreens first aid antiseptic spray bottle",health
+"imaging center diagnostic MRI scan procedure",healt
+"esthetician clinic acne treatment facial service",health
+"compounding pharmacy specialized liquid medication script",health
+"hearing clinic audiologist examination testing fee",health
+"dental lab porcelain crown replacement procedure",health
+"physician office specialist consultation co pay",health
+"sports massage clinic muscle recovery session",health
+"psychiatrist clinic medication management session fee",health
+"orthopedic specialist knee brace support fitting",health
+"hospital outpatient surgery facility copay bill",health
+"diabetic supply store glucose testing strips",health
+"medical supply store aluminum crutches set",health
+"state university graduate program tuition installment",education
+"college bookstore chemistry lab safety goggles",education
+"e learning website digital marketing certificate",education
+"language tutor private conversational session hour",education
+"kaplan test prep course study book",education
+"gmat examination official test registration fee",education
+"data science bootcamp enrollment deposit fee",education
+"scientific magazine annual print subscription delivery",education
+"high school geometry compass protractor set",education
+"target school supplies notebook paper pack",education
+"pottery studio beginner wheel throwing class",education
+"music school weekly violin lesson payment",education
+"craft store acrylic painting workshop entry",education
+"stem workshop solar robot construction kit",education
+"doctoral dissertation copyright filing registration fee",education
+"daycare center infant monthly enrollment fee",education
+"traffic school defensive driving course fee",education
+"bar exam review course study materials",education
+"anatomy flashcards set medical student store",education
+"historical museum student tour group fee",education
+"united airlines transcontinental flight ticket purchase",travel
+"marriott hotel resort double bed suite",travel
+"vrbo mountain cabin weekend rental deposit",travel
+"enterprise rent a car SUV booking",travel
+"priceline vacation deal package booking fee",travel
+"river cruise excursion European tour payment",travel
+"flight insurance trip cancellation coverage plan",travel
+"backpacker hostel private room night stay",trave
+"airport duty free designer perfume purchase",travel
+"hop on hop off bus tour",travel
+"luggage check fee airport check counter",travel
+"all inclusive resort daily gratuity service fee",travel
+"passport agency expedited processing delivery fee",travel
+"currency booth cash conversion handling fee",travel
+"destination wedding planner consultation retainer fee",travel
+"global entry membership application program fee",travel
+"hotel lounge breakfast buffet charge bill",travel
+"railway pass multi country tourist transport",travel
+"beach resort overnight vehicle parking charge",travel
+"travel toiletry bottles kit luggage store",travel
+"leasing office apartment security deposit payment",other
+"dmv duplicate driver license replacement fee",other
+"fedex office document printing shipping service",other
+"county sanitation department sewer service bill",other
+"coin laundromat commercial dryer cycle payment",other
+"verizon fios high speed internet invoice",other
+"laundry service wash dry fold delivery",other
+"self storage facility monthly unit rental",other
+"credit card annual account membership fee",other
+"atm network transaction surcharge fee payment",other
+"red cross humanitarian aid donation pledge",other
+"nonprofit organization animal shelter donation contribution",other
+"law firm power of attorney documentation",other
+"municipal trash tag stickers sheet purchase",other
+"power company residential electric utility bill",other
+"city gas network monthly heating bill",other
+"money order purchase fee post office",other
+"bridal shop wedding dress alterations service",other
+"hardware store replacement house key cutting",other
+"apartment application credit check screening fee",other
+"neiman marcus couture designer wardrobe upgrade",shopping
+"apple store corporate macbook pro bulk order",shopping
+"hermes hand stitched leather birkin handbag",shopping
+"tiffany and co platinum diamond engagement ring",shopping
+"rolex submariner stainless steel luxury watch",shopping
+"restoration hardware belgian linen sectional sofa",shopping
+"peloton commercial grade treadmill and bundle",shopping
+"louis vuitton monogram hardside luggage set",shopping
+"bang and olufsen home theater sound system",shopping
+"sub zero integrated dual refrigeration column",shopping
+"gibson custom shop vintage electric guitar",shopping
+"peloton commercial bike and cycling gear",shopping
+"dyson smart home air purifier bundle",shopping
+"chanel classic double flap shoulder bag",shopping
+"la cornue artisanal french gas range",shopping
+"cartier 18k yellow gold love bracelet",shopping
+"baccarat crystal chandelier dining room fixture",shopping
+"prada saffiano leather briefcase and boots",shopping
+"steinway and sons grand piano delivery",shopping
+"leica m11 digital rangefinder camera body",shopping
+"porsche design carbon fiber luggage set",shopping
+"gucci tailored mens three piece suit",shopping
+"natuzzi italian top grain leather recliner",shopping
+"sony 85 inch 8K ultra HD television",shopping
+"canada goose custom winter parka bundle",shopping
+"tesla wall connector home charging installation",transportation
+"charter flight private jet excursion rental",transportation
+"bmw dealership certified pre owned sedan",transportation
+"annual corporate parking garage garage lease",transportation
+"e zpass commercial fleet account transponder",transportation
+"ducati superbike sport motorcycle purchase",transportation
+"private yacht harbor transit mooring contract",transportation
+"luxury town car chauffeur service retainer",transportation
+"first class sleeper train ticket journey",transportation
+"vespa electric scooter dealership purchase",transportation
+"vintage porsche vehicle mechanical restoration",transportation
+"commercial pilot training license flight hours",transportation
+"ford dealership fleet transit cargo van",transportation
+"audi genuine parts replacement engine block",transportation
+"airport private hangar monthly leasing fee",transportation
+"custom enclosed vehicle transport shipping service",transportation
+"heavy duty electric truck charging station",transportation
+"limousine transport service corporate gala night",transportation
+"marine diesel fuel filling superyacht dock",transportation
+"interstate moving van transport shipping service",transportation
+"kawasaki jet ski watercraft dealership order",transportation
+"yamaha outboard motor marine vessel engine",transportation
+"lexus vehicle major engine transmission overhaul",transportation
+"annual luxury rideshare premium tier subscription",transportation
+"helicopter airport transfer shuttle flight service",transportation
+"super bowl stadium suite tickets box",entertainment
+"broadway theater front row VIP package",entertainment
+"vegas casino high roller suite experience",entertainment
+"annual premium streaming network master bundle",entertainment
+"coachella VIP weekend music festival passes",entertainment
+"custom home theater acoustic design installation",entertainment
+"disney world exclusive private VIP tour",entertainment
+"private country club annual sports membership",entertainment
+"formula one grand prix paddock club",entertainment
+"metropolitan opera box seats season subscription",entertainment
+"charter boat private deep sea fishing",entertainment
+"exclusive wine tasting club vintage registration",entertainment
+"michelin guide culinary tour ticket bundle",entertainment
+"imax home theater projection system hardware",entertainment
+"symphony orchestra gala night premium seating",entertainment
+"art gallery original canvas oil painting",entertainment
+"exclusive country club golf tournament entry",entertainment
+"private yacht party entertainment audio setup",entertainment
+"premium concert ticket resale front row",entertainment
+"world cup soccer finals stadium tickets",entertainment
+"olympic games closing ceremony stadium tickets",entertainment
+"exclusive ski resort mountain pass season",entertainment
+"private island excursion day pass bundle",entertainment
+"historic castle tour private group reservation",entertainment
+"comic con celebrity meet greet VIP",entertainment
+"cardiology clinic cardiac catheterization procedure copay",health
+"laser eye surgery advanced LASIK correction",health
+"dental implant surgery porcelain bridge restoration",health
+"executive physical health assessment clinic retainer",health
+"chiropractic clinic spinal decompression therapy package",health
+"physical therapy sports medicine rehabilitation program",health
+"concierge medicine annual physician care retainer",health
+"dermatology clinic full body laser treatment",health
+"diagnostic imaging center full body PET",health
+"plastic surgery rhinoplasty cosmetic clinic procedure",health
+"specialized pharmacy prescription biological medication therapy",health
+"hearing center premium digital hearing aids",health
+"orthodontic clinic comprehensive Invisalign treatment process",health
+"hospital inpatient surgical suite deductible payment",health
+"luxury wellness retreat medical detox week",health
+"psychiatric clinic comprehensive diagnostic evaluation series",health
+"orthopedic surgery knee arthroscopy specialist fee",health
+"hospital emergency department cardiac trauma copay",health
+"home medical equipment motorized wheelchair purchase",health
+"fertility clinic IVF egg retrieval cycle",health
+"private duty nursing care home services",health
+"addiction treatment center residential recovery program",health
+"sleep medicine clinic diagnostic overnight study",health
+"spinal surgery specialist consultation surgical deposit",health
+"prosthetic center custom lower limb fabrication",health
+"private university annual undergraduate tuition installment",education
+"harvard business school executive education program",education
+"oxford university study abroad semester tuition",education
+"private boarding school semester tuition deposit",education
+"gmat test prep elite private tutor",education
+"medical school annual tuition tuition installment",education
+"flight training school commercial license tuition",education
+"academic research library institutional access license",education
+"law school textbook bundle semester registration",education
+"stem research laboratory equipment setup donation",education
+"culinary institute professional chef diploma program",education
+"classical music conservatory master class tuition",education
+"fine arts academy summer residency tuition",education
+"robotics engineering kit advanced university level",education
+"doctoral dissertation publishing distribution binding fee",education
+"montessori academy annual preschool tuition enrollment",education
+"commercial driving academy fleet operator training",education
+"bar exam comprehensive review course package",education
+"medical residency board exam preparation materials",education
+"international school secondary education tuition fee",education
+"private tutoring agency annual academic support",education
+"educational consultant college admissions strategy counseling",education
+"architectural drafting software institutional user license",education
+"university campus housing residence hall suite",education
+"montessori teacher certification training program tuition",education
+"emirates first class round trip ticket",travel
+"ritz carlton penthouse suite weekly reservation",travel
+"luxury safari lodge all inclusive stay",travel
+"six star cruise mediterranean cruise package",travel
+"expedia luxury vacation tour package bundle",travel
+"antarctica expedition cruise cabin booking deposit",travel
+"annual multi trip international travel insurance",travel
+"boutique villa rental tuscan countryside stay",travel
+"airport lounge lifetime VIP access membership",travel
+"private helicopter tour grand canyon excursion",travel
+"luxury luggage trunk globetrotter collection piece",travel
+"exclusive island resort mandatory facility fee",travel
+"expedited passport visa services consular assistance",travel
+"foreign exchange desk high volume cash transfer",travel
+"custom travel agency custom itinerary coordination",travel
+"private tour guide historical archive access",travel
+"five star resort tasting menu experience",travel
+"luxury train journey venice simplon orient",travel
+"yacht charter week long caribbean cruise",travel
+"alpine ski resort chalet weekly rental",travel
+"exclusive airport terminal private suite transition",travel
+"travel agency custom safari package arrangement",travel
+"luxury vehicle rental exotic sports car",travel
+"overwater bungalow resort maldives vacation package",travel
+"guided mountain climbing expedition mountain peak",travel
+"downtown commercial office space monthly lease",other
+"corporate tax attorney annual advisory retainer",other
+"commercial property building structural restoration service",other
+"industrial printing press manufacturing equipment purchase",other
+"municipal water system commercial tap hookup",other
+"enterprise fiber optic internet installation contract",other
+"commercial linen facility hotel laundering service",other
+"climate controlled warehouse storage facility lease",other
+"investment banking portfolio management advisory fee",other
+"corporate law firm litigation defense retainer",other
+"international charity gala foundation table sponsorship",other
+"community church building sanctuary restoration contribution",other
+"estate planning notary public legal execution",other
+"industrial waste removal hazardous materials processing",other
+"solar panel array residential grid installation",other
+"commercial gas line installation facility upgrade",other
+"international wire transfer commercial escrow service",other
+"haute couture tailoring bridal gown redesign",other
+"commercial locksmith service high security lock",other
+Description,Category
+"corporate headquarters structural engineering evaluation fee",other
+"commercial real estate title insurance premium",other
+"interior design firm consulting retainer fee",other
+"architectural firm blueprint drafting service fee",other
+"land survey commercial property boundary certification",other
+"civil engineering firm soil stability testing",other
+"saks fifth avenue designer winter outerwear",shopping
+"microsoft store commercial enterprise software license",shopping
+"bottega veneta woven leather tote bag",shopping
+"harry winston diamond pendant drop necklace",shopping
+"audemars piguet royal oak luxury watch",shopping
+"b and b italia contemporary modular sofa",shopping
+"technogym premium smart fitness equipment bundle",shopping
+"rimowa aluminum multi wheel suitcase set",shopping
+"mcintosh laboratory audio power amplifier unit",shopping
+"viking professional dual fuel range oven",shopping
+"fender masterbuilt custom shop stratocaster guitar",shopping
+"rogue fitness commercial gym equipment package",shopping
+"blueair commercial grade air purification network",shopping
+"hermes silk scarf assortment collector box",shopping
+"lacanche french custom enameled range cooker",shopping
+"van cleef and arpels alhambra necklace",shopping
+"waterford crystal stemware glassware set completeness",shopping
+"burberry gabardine heritage trench coat wardrobe",shopping
+"yamaha baby grand acoustic piano delivery",shopping
+"hasselblad medium format mirrorless digital camera",shopping
+"tumi hardside ballistic nylon luggage collection",shopping
+"tom ford custom tailored tuxedo ensemble",shopping
+"roche bobois avant garde leather sectional",shopping
+"lg signature OLED rollable television screen",shopping
+"moncler goose down quilted winter coat",shopping
+"chargepoint dual commercial vehicle charging station",transportation
+"netjets private jet card flight hours",transportation
+"mercedes benz dealership luxury electric SUV",transportation
+"metropolitan central station corporate parking lease",transportation
+"highway authority fleet transponder account funding",transportation
+"harley davidson custom cruiser motorcycle purchase",transportation
+"marina slip deep water yacht mooring",transportation
+"executive limousine service annual contract retainer",transportation
+"eurostar premier class continental train pass",transportation
+"bmw motorrad adventure touring motorcycle order",transportation
+"classic car body rotisserie restoration service",transportation
+"aviation academy instrument rating flight hours",transportation
+"mercedes sprinter commercial luxury passenger van",transportation
+"caterpillar diesel replacement tractor engine block",transportation
+"municipal airport tarmac hangar monthly lease",transportation
+"enclosed trailer vehicle cross country shipping",transportation
+"tesla semi truck commercial charging equipment",transportation
+"chauffeured rolls royce wedding day transit",transportation
+"marine fueling depot bulk commercial vessel",transportation
+"international cargo container ocean shipping service",transportation
+"sea doo watercraft multi pack fleet",transportation
+"mercury marine veranda vessel outboard motor",transportation
+"jaguar classic vehicle transmission rebuild service",transportation
+"premium rideshare corporate account annual subscription",transportation
+"bell helicopter charter flight transit service",transportation
+"world series baseball stadium box tickets",entertainment
+"west end theater premium executive package",entertainment
+"monte carlo casino private room entry",entertainment
+"satellite television network annual master commercial",entertainment
+"glastonbury festival hospitality tier weekend passes",entertainment
+"genelec professional studio monitor speaker installation",entertainment
+"universal studios exclusive VIP tour guide",entertainment
+"prestigious golf club initial initiation fee",entertainment
+"monaco grand prix yacht trackside access",entertainment
+"royal albert hall private loge subscription",entertainment
+"catamaran yacht private charter week cruise",entertainment
+"sommelier guild private vintage wine selection",entertainment
+"culinary tour package premium michelin venues",entertainment
+"barco residential high end laser projector",entertainment
+"philharmonic orchestra season opening tier seats",entertainment
+"fine art auction oil canvas painting",entertainment
+"pga tour championship hospitality pavilion pass",entertainment
+"superyacht event entertainment live stage installation",entertainment
+"stadium concert ticket secondary broker front",entertainment
+"uefa champions league final hospitality package",entertainment
+"winter olympic games opening ceremony tickets",entertainment
+"aspen co premium ski resort pass",entertainment
+"private charter flight tropical island excursion",entertainment
+"unesco world heritage site private tour",entertainment
+"san diego comic con platinum VIP",entertainment
+"neurology clinic neurosurgery operative copay installment",health
+"vision correction advanced smile laser procedure",health
+"maxillofacial surgery clinic complex jaw reconstruction",health
+"preventative medicine longevity clinic annual retainer",health
+"physical rehabilitation hospital inpatient stroke therapy",health
+"sports clinic arthroscopic shoulder rehab program",health
+"family medicine concierge clinic annual fee",health
+"dermatology medical center laser resurfacing series",health
+"radiology center high resolution cardiac MRI",health
+"plastic surgery center facelift surgical suite",health
+"specialty pharmacy oncology infusion medication cost",health
+"audiology clinic advanced cochlear implant device",health
+"orthodontic center comprehensive adult lingual braces",health
+"surgical hospital inpatient operating room deductible",health
+"medical spa wellness center holistic detoxification",health
+"psychiatric medical group neuropsychological testing suite",health
+"orthopedic specialty hospital total hip replacement",health
+"trauma center emergency room critical care",health
+"respiratory equipment center advanced home ventilator",health
+"reproductive medicine center donor egg IVF",health
+"home health agency registered nurse care",health
+"rehabilitation center inpatient substance abuse treatment",health
+"sleep disorders center diagnostic polysomnography sequence",health
+"neurosurgery clinic cranial surgery specialist consultation",health
+"orthotic center advanced robotic bionic limb",health
+"stanford university annual undergraduate tuition payment",education
+"wharton school executive MBA program tuition",education
+"cambridge university international student academic year",education
+"elite preparatory academy annual tuition deposit",education
+"lsat examination preparation elite private instruction",education
+"dental school annual instructional tuition installment",education
+"aviation academy helicopter pilot license program",education
+"scientific database corporate multi user license",education
+"business school case study database bundle",education
+"engineering department laboratory spectrometer instrument donation",education
+"le cordon bleu master chef diploma",education
+"juilliard school advanced violin master class",education
+"royal academy of dramatic art residency",education
+"industrial robotics trainer kit engineering department",education
+"academic dissertation copy copyright licensing documentation",education
+"country day school annual primary tuition",education
+"heavy equipment operating school excavator certification",education
+"medical licensing examination comprehensive review platform",education
+"specialty board review study library database",education
+"american school in switzerland academic tuition",education
+"learning development center comprehensive cognitive intervention",education
+"educational consultancy firm Ivy League counseling",education
+"computational analysis software institutional campus license",education
+"university housing graduate student apartment suite",education
+"waldorf teacher training program certification tuition",education
+"singapore airlines suites class flight booking",travel
+"four seasons resort presidential suite week",travel
+"luxury luxury eco lodge wilderness safari",travel
+"silversea world cruise ultra luxury package",travel
+"thomas cook premium",travel

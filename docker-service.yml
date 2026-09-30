@@ -1,0 +1,36 @@
+service:
+
+  fastapi:
+
+    build: 
+      context: .
+      dockerfile: Dockerfile.api
+
+    container_name: expense-api
+
+    ports:
+    - "8000:8000"
+
+    command: >
+      uvicorn app.api:app
+      --host 0.0.0.0
+      --port 8000
+
+  steamlit:
+
+    build: 
+      context: .
+      dockerfile: Dockerfile.steamlit
+
+    container_name: expense_dashboard
+    
+    ports:
+    - "8501:8501"
+
+    command: >
+      steamlit run dashboard/main_dashboard.py 
+      --server_address=0.0.0.0
+
+
+
+ 
