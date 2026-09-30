@@ -256,7 +256,7 @@ Installation
 
 Clone the repository
 
-git clone https://github.com/<your-username>/AI-Expense-Tracker.git
+git clone https://github.com/gurmant-grewal/ai-expense-tracker.git
 
 Move into the project directory
 
@@ -363,9 +363,9 @@ Author
 
 Your Name
 
-LinkedIn: https://linkedin.com/in/your-profile
+LinkedIn: https://linkedin.com/in/gurmant-grewal
 
-GitHub: https://github.com/your-github
+GitHub: https://github.com/gurmant-grewal
 
 ⸻
 
