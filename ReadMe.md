@@ -256,11 +256,11 @@ Installation
 
 Clone the repository
 
-git clone https://github.com/gurmant-grewal/ai-expense-tracker.git
+git clone https://github.com/gurmant-grewal/smart-expense-analyzer.git
 
 Move into the project directory
 
-cd AI-Expense-Tracker
+cd smart-expense-analyzer
 
 Install dependencies
 
